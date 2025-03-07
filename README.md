@@ -1,3 +1,4 @@
+<body style="background-color:#1a1b27; color:white;">
 <h2 align="left"># Hi 👋! My name is Nöel and I'm a web developer 🌐, based in Barcelona, Spain. 🚀</h2>
 
 ###
@@ -43,3 +44,4 @@
 <br clear="both">
 
 ###
+</body>
