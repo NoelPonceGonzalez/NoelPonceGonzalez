@@ -1,7 +1,6 @@
-<div style="background-color:#1a1b27; color:white;">
-<h2 align="left"># Hi 👋! My name is Nöel and I'm a web developer 🌐, based in Barcelona, Spain. 🚀</h2>
-</div>
-###
+
+<h2 align="left">Hi 👋! My name is Nöel and I'm a web developer 🌐, based in Barcelona, Spain. 🚀</h2>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -44,4 +43,3 @@
 <br clear="both">
 
 ###
-</body>
